@@ -5,7 +5,6 @@
 
 build/
 bin/
-lib/
 out/
 
 *.iml
