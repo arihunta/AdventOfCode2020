@@ -1,4 +1,4 @@
-require "day_01.rb"
+require "day_01"
 
 Day01 = Arihunta::AdventOfCode2020::Day01
 
