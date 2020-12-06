@@ -1,3 +1,5 @@
+require "set"
+
 module Arihunta
   module AdventOfCode2020
     class Day06

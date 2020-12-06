@@ -1,5 +1,4 @@
 require "set"
-require "pry"
 
 module Arihunta
   module AdventOfCode2020
